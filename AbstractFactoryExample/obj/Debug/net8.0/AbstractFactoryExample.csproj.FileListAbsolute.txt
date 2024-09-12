@@ -1,0 +1,14 @@
+E:\PROJECTS\Articles.Projects\AbstractFactoryExample\bin\Debug\net8.0\AbstractFactoryExample.exe
+E:\PROJECTS\Articles.Projects\AbstractFactoryExample\bin\Debug\net8.0\AbstractFactoryExample.deps.json
+E:\PROJECTS\Articles.Projects\AbstractFactoryExample\bin\Debug\net8.0\AbstractFactoryExample.runtimeconfig.json
+E:\PROJECTS\Articles.Projects\AbstractFactoryExample\bin\Debug\net8.0\AbstractFactoryExample.dll
+E:\PROJECTS\Articles.Projects\AbstractFactoryExample\bin\Debug\net8.0\AbstractFactoryExample.pdb
+E:\PROJECTS\Articles.Projects\AbstractFactoryExample\obj\Debug\net8.0\AbstractFactoryExample.GeneratedMSBuildEditorConfig.editorconfig
+E:\PROJECTS\Articles.Projects\AbstractFactoryExample\obj\Debug\net8.0\AbstractFactoryExample.AssemblyInfoInputs.cache
+E:\PROJECTS\Articles.Projects\AbstractFactoryExample\obj\Debug\net8.0\AbstractFactoryExample.AssemblyInfo.cs
+E:\PROJECTS\Articles.Projects\AbstractFactoryExample\obj\Debug\net8.0\AbstractFactoryExample.csproj.CoreCompileInputs.cache
+E:\PROJECTS\Articles.Projects\AbstractFactoryExample\obj\Debug\net8.0\AbstractFactoryExample.dll
+E:\PROJECTS\Articles.Projects\AbstractFactoryExample\obj\Debug\net8.0\refint\AbstractFactoryExample.dll
+E:\PROJECTS\Articles.Projects\AbstractFactoryExample\obj\Debug\net8.0\AbstractFactoryExample.pdb
+E:\PROJECTS\Articles.Projects\AbstractFactoryExample\obj\Debug\net8.0\AbstractFactoryExample.genruntimeconfig.cache
+E:\PROJECTS\Articles.Projects\AbstractFactoryExample\obj\Debug\net8.0\ref\AbstractFactoryExample.dll

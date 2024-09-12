@@ -1,0 +1,14 @@
+E:\PROJECTS\Articles.Projects\PrototypeExample\bin\Debug\net8.0\PrototypeExample.exe
+E:\PROJECTS\Articles.Projects\PrototypeExample\bin\Debug\net8.0\PrototypeExample.deps.json
+E:\PROJECTS\Articles.Projects\PrototypeExample\bin\Debug\net8.0\PrototypeExample.runtimeconfig.json
+E:\PROJECTS\Articles.Projects\PrototypeExample\bin\Debug\net8.0\PrototypeExample.dll
+E:\PROJECTS\Articles.Projects\PrototypeExample\bin\Debug\net8.0\PrototypeExample.pdb
+E:\PROJECTS\Articles.Projects\PrototypeExample\obj\Debug\net8.0\PrototypeExample.GeneratedMSBuildEditorConfig.editorconfig
+E:\PROJECTS\Articles.Projects\PrototypeExample\obj\Debug\net8.0\PrototypeExample.AssemblyInfoInputs.cache
+E:\PROJECTS\Articles.Projects\PrototypeExample\obj\Debug\net8.0\PrototypeExample.AssemblyInfo.cs
+E:\PROJECTS\Articles.Projects\PrototypeExample\obj\Debug\net8.0\PrototypeExample.csproj.CoreCompileInputs.cache
+E:\PROJECTS\Articles.Projects\PrototypeExample\obj\Debug\net8.0\PrototypeExample.dll
+E:\PROJECTS\Articles.Projects\PrototypeExample\obj\Debug\net8.0\refint\PrototypeExample.dll
+E:\PROJECTS\Articles.Projects\PrototypeExample\obj\Debug\net8.0\PrototypeExample.pdb
+E:\PROJECTS\Articles.Projects\PrototypeExample\obj\Debug\net8.0\PrototypeExample.genruntimeconfig.cache
+E:\PROJECTS\Articles.Projects\PrototypeExample\obj\Debug\net8.0\ref\PrototypeExample.dll

@@ -1,0 +1,14 @@
+E:\PROJECTS\Articles.Projects\SingletonExample\bin\Debug\net8.0\SingletonExample.exe
+E:\PROJECTS\Articles.Projects\SingletonExample\bin\Debug\net8.0\SingletonExample.deps.json
+E:\PROJECTS\Articles.Projects\SingletonExample\bin\Debug\net8.0\SingletonExample.runtimeconfig.json
+E:\PROJECTS\Articles.Projects\SingletonExample\bin\Debug\net8.0\SingletonExample.dll
+E:\PROJECTS\Articles.Projects\SingletonExample\bin\Debug\net8.0\SingletonExample.pdb
+E:\PROJECTS\Articles.Projects\SingletonExample\obj\Debug\net8.0\SingletonExample.GeneratedMSBuildEditorConfig.editorconfig
+E:\PROJECTS\Articles.Projects\SingletonExample\obj\Debug\net8.0\SingletonExample.AssemblyInfoInputs.cache
+E:\PROJECTS\Articles.Projects\SingletonExample\obj\Debug\net8.0\SingletonExample.AssemblyInfo.cs
+E:\PROJECTS\Articles.Projects\SingletonExample\obj\Debug\net8.0\SingletonExample.csproj.CoreCompileInputs.cache
+E:\PROJECTS\Articles.Projects\SingletonExample\obj\Debug\net8.0\SingletonExample.dll
+E:\PROJECTS\Articles.Projects\SingletonExample\obj\Debug\net8.0\refint\SingletonExample.dll
+E:\PROJECTS\Articles.Projects\SingletonExample\obj\Debug\net8.0\SingletonExample.pdb
+E:\PROJECTS\Articles.Projects\SingletonExample\obj\Debug\net8.0\SingletonExample.genruntimeconfig.cache
+E:\PROJECTS\Articles.Projects\SingletonExample\obj\Debug\net8.0\ref\SingletonExample.dll

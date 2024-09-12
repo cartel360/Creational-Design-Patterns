@@ -1,0 +1,14 @@
+E:\PROJECTS\Articles.Projects\BuilderExample\bin\Debug\net8.0\BuilderExample.exe
+E:\PROJECTS\Articles.Projects\BuilderExample\bin\Debug\net8.0\BuilderExample.deps.json
+E:\PROJECTS\Articles.Projects\BuilderExample\bin\Debug\net8.0\BuilderExample.runtimeconfig.json
+E:\PROJECTS\Articles.Projects\BuilderExample\bin\Debug\net8.0\BuilderExample.dll
+E:\PROJECTS\Articles.Projects\BuilderExample\bin\Debug\net8.0\BuilderExample.pdb
+E:\PROJECTS\Articles.Projects\BuilderExample\obj\Debug\net8.0\BuilderExample.GeneratedMSBuildEditorConfig.editorconfig
+E:\PROJECTS\Articles.Projects\BuilderExample\obj\Debug\net8.0\BuilderExample.AssemblyInfoInputs.cache
+E:\PROJECTS\Articles.Projects\BuilderExample\obj\Debug\net8.0\BuilderExample.AssemblyInfo.cs
+E:\PROJECTS\Articles.Projects\BuilderExample\obj\Debug\net8.0\BuilderExample.csproj.CoreCompileInputs.cache
+E:\PROJECTS\Articles.Projects\BuilderExample\obj\Debug\net8.0\BuilderExample.dll
+E:\PROJECTS\Articles.Projects\BuilderExample\obj\Debug\net8.0\refint\BuilderExample.dll
+E:\PROJECTS\Articles.Projects\BuilderExample\obj\Debug\net8.0\BuilderExample.pdb
+E:\PROJECTS\Articles.Projects\BuilderExample\obj\Debug\net8.0\BuilderExample.genruntimeconfig.cache
+E:\PROJECTS\Articles.Projects\BuilderExample\obj\Debug\net8.0\ref\BuilderExample.dll

@@ -1,0 +1,14 @@
+E:\PROJECTS\Articles.Projects\FactoryMethodExample\bin\Debug\net8.0\FactoryMethodExample.exe
+E:\PROJECTS\Articles.Projects\FactoryMethodExample\bin\Debug\net8.0\FactoryMethodExample.deps.json
+E:\PROJECTS\Articles.Projects\FactoryMethodExample\bin\Debug\net8.0\FactoryMethodExample.runtimeconfig.json
+E:\PROJECTS\Articles.Projects\FactoryMethodExample\bin\Debug\net8.0\FactoryMethodExample.dll
+E:\PROJECTS\Articles.Projects\FactoryMethodExample\bin\Debug\net8.0\FactoryMethodExample.pdb
+E:\PROJECTS\Articles.Projects\FactoryMethodExample\obj\Debug\net8.0\FactoryMethodExample.GeneratedMSBuildEditorConfig.editorconfig
+E:\PROJECTS\Articles.Projects\FactoryMethodExample\obj\Debug\net8.0\FactoryMethodExample.AssemblyInfoInputs.cache
+E:\PROJECTS\Articles.Projects\FactoryMethodExample\obj\Debug\net8.0\FactoryMethodExample.AssemblyInfo.cs
+E:\PROJECTS\Articles.Projects\FactoryMethodExample\obj\Debug\net8.0\FactoryMethodExample.csproj.CoreCompileInputs.cache
+E:\PROJECTS\Articles.Projects\FactoryMethodExample\obj\Debug\net8.0\FactoryMethodExample.dll
+E:\PROJECTS\Articles.Projects\FactoryMethodExample\obj\Debug\net8.0\refint\FactoryMethodExample.dll
+E:\PROJECTS\Articles.Projects\FactoryMethodExample\obj\Debug\net8.0\FactoryMethodExample.pdb
+E:\PROJECTS\Articles.Projects\FactoryMethodExample\obj\Debug\net8.0\FactoryMethodExample.genruntimeconfig.cache
+E:\PROJECTS\Articles.Projects\FactoryMethodExample\obj\Debug\net8.0\ref\FactoryMethodExample.dll
